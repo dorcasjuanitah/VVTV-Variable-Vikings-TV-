@@ -1,0 +1,335 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "name": "Inception",
+        "director_name": "Christopher Nolan",
+        "duration": 148,
+        "genre": "Science Fiction",
+        "imdb_rating": 8.8,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+        "writer_name": "Christopher Nolan",
+        "year_of_release": 2010
+      },
+      {
+        "id": 2,
+        "name": "The Shawshank Redemption",
+        "director_name": "Frank Darabont",
+        "duration": 142,
+        "genre": "Drama",
+        "imdb_rating": 9.3,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+        "writer_name": "Stephen King",
+        "year_of_release": 1994
+      },
+      {
+        "id": 3,
+        "name": "Pulp Fiction",
+        "director_name": "Quentin Tarantino",
+        "duration": 154,
+        "genre": "Crime",
+        "imdb_rating": 8.9,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "writer_name": "Quentin Tarantino",
+        "year_of_release": 1994
+      },
+      {
+        "id": 4,
+        "name": "The Godfather",
+        "director_name": "Francis Ford Coppola",
+        "duration": 175,
+        "genre": "Crime",
+        "imdb_rating": 9.2,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "writer_name": "Mario Puzo",
+        "year_of_release": 1972
+      },
+      {
+        "id": 5,
+        "name": "The Dark Knight",
+        "director_name": "Christopher Nolan",
+        "duration": 152,
+        "genre": "Action",
+        "imdb_rating": 9.0,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+        "writer_name": "Christopher Nolan",
+        "year_of_release": 2008
+      },
+      {
+        "id": 6,
+        "name": "The Lord of the Rings: The Return of the King",
+        "director_name": "Peter Jackson",
+        "duration": 201,
+        "genre": "Adventure",
+        "imdb_rating": 8.9,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "writer_name": "J.R.R. Tolkien",
+        "year_of_release": 2003
+      },
+      {
+        "id": 7,
+        "name": "Schindler's List",
+        "director_name": "Steven Spielberg",
+        "duration": 195,
+        "genre": "Biography",
+        "imdb_rating": 8.9,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "writer_name": "Thomas Keneally",
+        "year_of_release": 1993
+      },
+      {
+        "id": 8,
+        "name": "Fight Club",
+        "director_name": "David Fincher",
+        "duration": 139,
+        "genre": "Drama",
+        "imdb_rating": 8.8,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "writer_name": "Chuck Palahniuk",
+        "year_of_release": 1999
+      },
+      {
+        "id": 9,
+        "name": "Forrest Gump",
+        "director_name": "Robert Zemeckis",
+        "duration": 142,
+        "genre": "Drama",
+        "imdb_rating": 8.8,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "writer_name": "Winston Groom",
+        "year_of_release": 1994
+      },
+      {
+        "id": 10,
+        "name": "The Matrix",
+        "director_name": "The Wachowskis",
+        "duration": 136,
+        "genre": "Action",
+        "imdb_rating": 8.7,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "writer_name": "The Wachowskis",
+        "year_of_release": 1999
+      },
+      {
+        "id": 11,
+        "name": "Goodfellas",
+        "director_name": "Martin Scorsese",
+        "duration": 146,
+        "genre": "Biography",
+        "imdb_rating": 8.7,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "writer_name": "Nicholas Pileggi",
+        "year_of_release": 1990
+      },
+      {
+        "id": 12,
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "director_name": "Peter Jackson",
+        "duration": 178,
+        "genre": "Adventure",
+        "imdb_rating": 8.8,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg",
+        "writer_name": "J.R.R. Tolkien",
+        "year_of_release": 2001
+      },
+      {
+        "id": 13,
+        "name": "The Lord of the Rings: The Two Towers",
+        "director_name": "Peter Jackson",
+        "duration": 179,
+        "genre": "Adventure",
+        "imdb_rating": 8.7,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BZTUxNzg3MDUtYjdmZi00ZDY1LTkyYTgtODlmOGY5N2RjYWUyXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg",
+        "writer_name": "J.R.R. Tolkien",
+        "year_of_release": 2002
+      },
+      {
+        "id": 14,
+        "name": "Se7en",
+        "director_name": "David Fincher",
+        "duration": 127,
+        "genre": "Crime",
+        "imdb_rating": 8.6,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "writer_name": "Andrew Kevin Walker",
+        "year_of_release": 1995
+      },
+      {
+        "id": 15,
+        "name": "The Silence of the Lambs",
+        "director_name": "Jonathan Demme",
+        "duration": 118,
+        "genre": "Crime",
+        "imdb_rating": 8.6,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "writer_name": "Thomas Harris",
+        "year_of_release": 1991
+      },
+      {
+        "id": 16,
+        "name": "The Green Mile",
+        "director_name": "Frank Darabont",
+        "duration": 189,
+        "genre": "Crime",
+        "imdb_rating": 8.6,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg",
+        "writer_name": "Stephen King",
+        "year_of_release": 1999
+      },
+      {
+        "id": 17,
+        "name": "The Intouchables",
+        "director_name": "Olivier Nakache, Éric Toledano",
+        "duration": 112,
+        "genre": "Biography",
+        "imdb_rating": 8.5,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BODY0MDM1MDE2OV5BMl5BanBnXkFtZTcwMzEyMjkyNw@@._V1_.jpg",
+        "writer_name": "Olivier Nakache, Éric Toledano",
+        "year_of_release": 2011
+      },
+      {
+        "id": 18,
+        "name": "The Prestige",
+        "director_name": "Christopher Nolan",
+        "duration": 130,
+        "genre": "Drama",
+        "imdb_rating": 8.5,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg",
+        "writer_name": "Jonathan Nolan, Christopher Nolan",
+        "year_of_release": 2006
+      },
+      {
+        "id": 19,
+        "name": "Léon: The Professional",
+        "director_name": "Luc Besson",
+        "duration": 110,
+        "genre": "Crime",
+        "imdb_rating": 8.5,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "writer_name": "Luc Besson",
+        "year_of_release": 1994
+      },
+      {
+        "id": 20,
+        "name": "The Usual Suspects",
+        "director_name": "Bryan Singer",
+        "duration": 106,
+        "genre": "Crime",
+        "imdb_rating": 8.5,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "writer_name": "Christopher McQuarrie",
+        "year_of_release": 1995
+      },
+      {
+        "id": 21,
+        "name": "Fast and furious 4",
+        "director_name": "Justin Lin",
+        "duration": 107,
+        "genre": "Action/Crime",
+        "imdb_rating": 8.9,
+        "image_link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFast_%2526_Furious_%25282009_film%2529&psig=AOvVaw0NDKTKBOMeEU79Dcsagndy&ust=1715167299343000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjbn6i2-4UDFQAAAAAdAAAAABAD",
+        "writer_name": "Gary Scott Thompson",
+        "year_of_release": 2009
+      },
+      {
+        "id": 22,
+        "name": "Kong Skull Island",
+        "director_name": "Jordan Vogt-Roberts",
+        "duration": 118,
+        "genre": "Action/Fantasy",
+        "imdb_rating": 8.1,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BMWUxNjZiNTAtZmMwMi00MmYxLTkxZGEtZWE1MzU0OWFjOTNhXkEyXkFqcGdeQXVyNzk1MzI3MTI@._V1_FMjpg_UX1000_.jpg",
+        "writer_name": "Edgar Wallace",
+        "year_of_release": 2017
+      },
+      {
+        "id": 23,
+        "name": "The Lord of the Rings: The War of the Rohirrim",
+        "director_name": " Kenji Kamiyama",
+        "duration": 130,
+        "genre": "Fantasy",
+        "imdb_rating": 8.7,
+        "image_link": "https://forumcinemaslv.blob.core.windows.net/1012/Event_10387/portrait_large/lotr-rohirrim-teaser.jpg",
+        "writer_name": "Jeffrey Addiss",
+        "year_of_release": 2024
+      },
+      {
+        "id": 24,
+        "name": "Warcraft",
+        "director_name": "Duncan Jones",
+        "duration": 123,
+        "genre": "Action",
+        "imdb_rating": 6.7,
+        "image_link": "https://upload.wikimedia.org/wikipedia/en/5/56/Warcraft_Teaser_Poster.jpg",
+        "writer_name": "Charles Leavitt",
+        "year_of_release": 2015
+      },
+      {
+        "id": 25,
+        "name": "The amazing spiderman 2",
+        "director_name": "Marc Webb",
+        "duration": 136,
+        "genre": "Action",
+        "imdb_rating": 6.6,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_.jpg",
+        "writer_name": "Stan Lee",
+        "year_of_release": 2012
+      },
+      {
+        "id": 26,
+        "name": "The Hobbit: An Unexpected Journey",
+        "director_name": "Peter Jackson",
+        "duration": 169,
+        "genre": "Fantasy",
+        "imdb_rating": 7.8,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_FMjpg_UX1000_.jpg",
+        "writer_name": "J.R.R. Tolkien",
+        "year_of_release": 2012
+      },
+      {
+        "id": 27,
+        "name": "Extraction 1",
+        "director_name": "Sam Hargrave",
+        "duration": 164,
+        "genre": "Action/Thriller",
+        "imdb_rating": 6.8,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BNDBkOWNiMTYtMjlkZS00NzJlLTg0ZmUtN2YwYWQ3N2I3N2Y0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "writer_name": "Russo Brothers",
+        "year_of_release": 2020
+      },
+      {
+        "id": 28,
+        "name": "The Hobbit: The Battle of the Five Armies",
+        "director_name": "Peter Jackson",
+        "duration": 144,
+        "genre": "Fantasy",
+        "imdb_rating": 7.7,
+        "image_link": "https://upload.wikimedia.org/wikipedia/en/e/e7/The_Hobbit_-_The_Battle_of_the_Five_Armies.png",
+        "writer_name": "J.R.R. Tolkien",
+        "year_of_release": 2014
+      },
+      {
+        "id": 29,
+        "name": "Extraction 2",
+        "director_name": "Sam Hargrave",
+        "duration": 119,
+        "genre": "Action/Thriller",
+        "imdb_rating": 8.7,
+        "image_link": "https://example.com/two_towers.jpg",
+        "writer_name": "Russo Brothers",
+        "year_of_release": 2023
+      },
+      {
+        "id": 30,
+        "name": "The Gray Man",
+        "director_name": "Peter Jackson",
+        "duration": 122,
+        "genre": "Action/Thriller",
+        "imdb_rating": 6.5,
+        "image_link": "https://m.media-amazon.com/images/M/MV5BOWY4MmFiY2QtMzE1YS00NTg1LWIwOTQtYTI4ZGUzNWIxNTVmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        "writer_name": "Russo Brothers",
+        "year_of_release": 2022
+      }
+    ]
+  }
+  
